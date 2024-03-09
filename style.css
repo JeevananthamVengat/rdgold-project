@@ -1,0 +1,130 @@
+.top-part{
+	background-color:maroon;
+	color:white;
+	height:50px;
+}
+.top-para{
+	margin-top:15px;
+}
+.shop-location{
+	color:white;
+	margin-top:17px;
+}
+.shop-location:hover{
+	color:gray;
+}
+.for-navbars-fixed{
+	position:sticky;
+}
+.top-links{
+	background-color:maroon;
+	color:white;
+	margin-top:10px;
+	font-size:2vwmin;
+}
+.top-links:hover{
+	color:gray;
+}
+.logo-img{
+	width:200px;
+}
+.search-bar{
+	padding: 8px 15px;
+	border: 1px solid black;
+	border-radius:50px;
+	margin-top:20px;
+	display:flex;
+}
+.search-bar:hover{
+	box-shadow:2px 2px 2px 2px gray;
+	cursor:pointer;
+}
+.search-bar input{
+	border: none;
+	outline: none;
+	width:100%;
+	text-align:center;
+}
+.icons{
+	margin-top:20px;
+	word-spacing:20px;
+}
+.for-navbars{
+	display:flex;
+	justify-content:space-between;
+	list-style:none;
+}
+
+a{
+	color:black;
+	text-decoration:none;
+}
+a:hover{
+	color:maroon;
+	text-decoration:none;
+}
+.for-page-number{
+	color:black;
+}
+.for-page-number:hover{
+	background-color:maroon;
+	color:white;
+	
+}
+
+h1{
+	text-align:center;
+	margin-bottom:20px;
+}
+.photo-alt{
+	border-radius:10px;
+	margin-bottom:20px;
+	transition:all 0.5s ease;
+}
+.photo-alt:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	transition:all 0.5s ease;
+	transform:scale(1.05);
+}
+.body-image p{
+	text-align:center;
+}
+.faq-text-edit{
+	
+	margin-bottom:20px;
+	font-weight:500;
+}
+h4{
+	text-transform:uppercase;
+}
+.footer-back{
+	background-color:maroon;
+	color:white;
+}
+. for-carousel-edit{
+	height:50%;
+	width:100%;
+}
+.product-list li{
+	display:inline;
+	text-align:center;
+}
+h2{
+	text-weight:900;
+}
+.bangles-photo-alt{
+	border-radius:10px;
+	margin-bottom:20px;
+	
+}
+.bangles-photo-alt:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	transition:all 0.5s ease;
+}
+ .nav-lk:hover{
+	 color:maroon;
+	border-bottom: 3px solid maroon;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	
+}
